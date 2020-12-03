@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Food eating and making</title>
+    <link href="https://fiddlesticks.github.io/georgew/feed.xml" rel="self" />
+    <link href="https://fiddlesticks.github.io/georgew" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>George Wright</name>
+    </author>
+    <id>https://fiddlesticks.github.io/georgew</id>
+
+</feed>
