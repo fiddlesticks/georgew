@@ -3,12 +3,33 @@
     <title>Food eating and making</title>
     <link href="https://fiddlesticks.github.io/georgew/feed.xml" rel="self" />
     <link href="https://fiddlesticks.github.io/georgew" />
-    <updated>2020-12-03T01:08:48+01:00</updated>
+    <updated>2020-12-15T00:44:38+01:00</updated>
     <author>
         <name>George Wright</name>
     </author>
     <id>https://fiddlesticks.github.io/georgew</id>
 
+    <entry>
+        <title>15 Dec</title>
+        <author>
+            <name>George Wright</name>
+        </author>
+        <link href="https://fiddlesticks.github.io/georgew/15-dec.html"/>
+        <id>https://fiddlesticks.github.io/georgew/15-dec.html</id>
+
+        <updated>2020-12-15T00:44:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Lockdown v3 diary
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lockdown v3 diary</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>hello,world</title>
         <author>
